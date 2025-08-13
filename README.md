@@ -10,16 +10,16 @@ Este projeto foi desenvolvido durante o **Hackathon 1000 Devs**, um evento focad
 
 ## 👥 Equipe - Grupo 3
 
-| Membro | GitHub |
-|--------|---------|
-| **Ana Vitória** | [@ana-vitoria](https://github.com/ana-vitoria) |
-| Audrey | [@audrey](https://github.com/audrey) |
-| David | [@david](https://github.com/david) |
-| Caio | [@caio](https://github.com/caio) |
-| Angel | [@angel](https://github.com/angel) |
-| Cauã | [@caua](https://github.com/caua) |
-| Renan | [@renan](https://github.com/renan) |
-| Letícia | [@leticia](https://github.com/leticia) |
+| Membro |
+|--------|
+| **Ana Vitória** |
+| Audrey |
+| David |
+| Caio | 
+| Angel | 
+| Cauã | 
+| Renan | 
+| Letícia | 
 
 ## ✨ Funcionalidades
 
